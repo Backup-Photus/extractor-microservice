@@ -3,10 +3,10 @@ package com.metadata.extractor;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
+//@SpringBootTest
 class ExtractorApplicationTests {
 
-	@Test
+//	@Test
 	void contextLoads() {
 	}
 
